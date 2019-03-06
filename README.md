@@ -11,4 +11,5 @@ MultiType 的特性
 高效，没有性能损失，内存友好，最大限度发挥 RecyclerView 的复用性
 可读，代码清晰干净、设计精巧，极力避免复杂化，可读性很好，为拓展和自行解决问题提供了基础
 
+
 demo参考博客地址：https://blog.csdn.net/u012808234/article/details/55048867
